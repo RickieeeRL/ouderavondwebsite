@@ -1,3 +1,6 @@
+.overmijpng{
+  width: 250px;
+}
 .image-left {
   margin-left: 20px;
   margin-top: 10px;
@@ -299,6 +302,9 @@ a:focus {
   background-color: black;  
   color: white;
   border-radius: 8px;
+}
+.nav-item {
+  color: black;
 }
 
 .custom_nav-container .nav_search-btn {
